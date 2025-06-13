@@ -92,9 +92,7 @@
     - Cash Payment
     - Razorpay Integration
 - Ensures a secure and smooth payment experience for users.
-# Contributors
-- Shweta Singh
-- Riya Gupta
+
 
 
 
